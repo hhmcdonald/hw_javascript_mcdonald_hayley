@@ -5,13 +5,15 @@ var iceCream = [
     'Cake Batter'
 ];
 
+var presidents = [
+
 var Obama = {
     firstName: 'Barack',
     lastName: 'Obama',
     termLength: '2 terms',
     party: 'Democratic',
     yearsOfPresidency: '8 years'
-};
+},
 
 var BushJr = {
     firstName: 'George',
@@ -19,7 +21,7 @@ var BushJr = {
     termLength: '2 terms',
     party: 'Republican',
     yearsOfPresidency: '8 years'
-};
+},
 
 var Clinton = {
     firstName: 'Bill',
@@ -27,7 +29,7 @@ var Clinton = {
     termLength: '2 terms',
     party: 'Democratic',
     yearsOfPresidency: '8 years'
-};
+},
 
 var BushSr = {
     firstName: 'George',
@@ -35,7 +37,7 @@ var BushSr = {
     termLength: '1 term',
     party: 'Republican',
     yearsOfPresidency: '4 years'
-};
+},
 
 var Reagan = {
     firstName: 'Ronald',
@@ -43,4 +45,8 @@ var Reagan = {
     termLength: '2 terms',
     party: 'Republican',
     yearsOfPresidency: '8 years'
-};
+},
+
+console.log( presidents[3].firstName + presidents[3].lastName )
+
+];
