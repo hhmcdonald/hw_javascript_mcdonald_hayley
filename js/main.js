@@ -71,3 +71,10 @@ if ( numba[i].length < 7 ) {
 	console.log( "7, what a perfect choice!" );
 }
 }
+
+function inception( display, favMovie ) {
+	display(favMovie);
+}
+
+var message = inception( favMovie + ' is a fantastic movie.' );
+console.log( inception );
