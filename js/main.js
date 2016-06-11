@@ -50,3 +50,10 @@ var Reagan = {
 console.log( presidents[3].firstName + presidents[3].lastName )
 
 ];
+
+function howdy( firsName, lastName, message ) {
+	return firstName + lastName + ' says ' + message;
+}
+
+var message = howdy( 'Hayley' , 'McDonald' , 'Hi professor Kalehoff!' );
+console.log( message );
