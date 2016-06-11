@@ -57,3 +57,17 @@ function howdy( firsName, lastName, message ) {
 
 var message = howdy( 'Hayley' , 'McDonald' , 'Hi professor Kalehoff!' );
 console.log( message );
+
+var numba = {
+	string: ['7', 'seventy', 'university'];
+}
+
+for (var i = 0; i = numba.length; i++) {
+if ( numba[i].length < 7 ) {
+	console.log( "What a short little word!" );
+} if else ( numba[i].length > 7 ) {
+	console.log( "I'm sorry, but that's too many to count." );
+}	else {
+	console.log( "7, what a perfect choice!" );
+}
+}
