@@ -48,4 +48,4 @@ var presidents = [
     }
 ];
 
-console.log(presidents[3].firstName + ' ' + presidents[3].lastName);
+console.log(presidents[2].firstName + ' ' + presidents[2].lastName);
