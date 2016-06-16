@@ -7,7 +7,7 @@ var iceCream = [
 
 var presidents = [
 
-var Obama = {
+{
     firstName: 'Barack',
     lastName: 'Obama',
     termLength: '2 terms',
@@ -15,7 +15,7 @@ var Obama = {
     yearsOfPresidency: '8 years'
 },
 
-var BushJr = {
+{
     firstName: 'George',
     lastName: 'Bush',
     termLength: '2 terms',
@@ -23,7 +23,7 @@ var BushJr = {
     yearsOfPresidency: '8 years'
 },
 
-var Clinton = {
+{
     firstName: 'Bill',
     lastName: 'Clinton',
     termLength: '2 terms',
@@ -31,7 +31,7 @@ var Clinton = {
     yearsOfPresidency: '8 years'
 },
 
-var BushSr = {
+{
     firstName: 'George',
     lastName: 'Bush',
     termLength: '1 term',
@@ -39,7 +39,7 @@ var BushSr = {
     yearsOfPresidency: '4 years'
 },
 
-var Reagan = {
+{
     firstName: 'Ronald',
     lastName: 'Reagan',
     termLength: '2 terms',
