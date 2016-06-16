@@ -1,6 +1,7 @@
 var iceCream = [
     'Raspberry Chocolate',
     'Mint Chocolate Chip',
-    'Cookies n Cream',
-    'Cake Batter'
+    'Cookies n Cream'
 ];
+
+iceCream.push('Cake Batter');
