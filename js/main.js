@@ -45,8 +45,7 @@ var presidents = [
         termLength: '2 terms',
         party: 'Republican',
         yearsOfPresidency: '8 years'
-    },
+    }
+];
 
 console.log( presidents[3].firstName + presidents[3].lastName )
-
-];
